@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naboulsi Amine</h1>
 <h3 align="center">Am a full stack developer from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://easyscratch.000webhostapp.com/api/images/profil.png">
+<img align="right" alt="Coding" width="400" src="https://easyscratch.000webhostapp.com/api/images/e390196c-0109-4e0f-ac7e-b9ec2342b377_upscaled.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminenaboulsi&label=Profile%20views&color=0e75b6&style=flat" alt="aminenaboulsi" /> </p>
