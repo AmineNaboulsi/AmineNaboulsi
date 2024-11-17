@@ -1,14 +1,9 @@
-<h1 align="center">Hi 👋, I'm Naboulsi Amine</h1>
-<h3 align="center">Am a full stack developer from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://easyscratch.000webhostapp.com/api/images/e390196c-0109-4e0f-ac7e-b9ec2342b377_upscaled.png">
+<img align="right" alt="Coding" src="https://github.com/AmineNaboulsi/AmineNaboulsi/blob/main/FrameBanner.png?raw=true">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminenaboulsi&label=Profile%20views&color=0e75b6&style=flat" alt="aminenaboulsi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **API , PHP**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/aminube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aminube" height="30" width="40" /></a>
