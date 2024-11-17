@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" src="https://github.com/AmineNaboulsi/AmineNaboulsi/blob/main/FrameBanner.png?raw=true">
+<img align="right" alt="Coding" src="https://github.com/AmineNaboulsi/AmineNaboulsi/blob/main/FrameBanner1.png?raw=true">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminenaboulsi&label=Profile%20views&color=0e75b6&style=flat" alt="aminenaboulsi" /> </p>
